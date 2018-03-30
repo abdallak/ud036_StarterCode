@@ -18,7 +18,7 @@ it is so easy and just like Magic
 
 just download it and use it 
 you dont nead to install it 
-just play "entertainment_center.py"
+python entertainment_center.py
 
 ## Tests
 
